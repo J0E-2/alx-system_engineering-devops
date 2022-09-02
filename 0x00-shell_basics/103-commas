@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [:alnum:] [:digit:]* -almX*/
+ls -apmv
