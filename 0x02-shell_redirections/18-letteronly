@@ -1,2 +1,2 @@
 #!/bin/bash
-less [[:alph:]][[:upper:]]* /etc/ssh/sshd_config
+less [[:alph:]]* /etc/ssh/sshd_config
